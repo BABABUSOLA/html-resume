@@ -1,0 +1,166 @@
+body{
+  background-color:  #FFFFFF; 
+  font-family:Geogia, serif;
+}
+
+#main{
+    background-color: #e6e6e6;
+    position: relative;
+    height:auto; 
+    width:1250px;
+    padding:4em 10em 2em 10em;
+    margin:2em 8em 2em 8em;
+    border-bottom-left-radius:8em;
+    border-bottom-right-radius:8em;
+}
+.section #smenu h2{
+    font-style: italic;
+}
+.absolute{
+    background-color:brown;
+    position: absolute;
+    top:0em;
+    width:100%;
+    height:1em;
+    left:0em;
+}
+#header{
+    margin:2.5em 0em 3em 0em;
+    display:block;
+    height:200px;
+    padding: 10px 10px 10px 10px; 
+    
+    /*padding-bottom:1.5em;*/
+    border-bottom:1px solid;
+ 
+    
+}
+
+#header h1{
+    font-size:67px;
+    text-transform:uppercase;
+    letter-spacing:9px;
+}
+#header h2{
+    text-transform:uppercase;
+    letter-spacing:2px;
+  
+}
+
+#contact{
+    display:block;
+    float:left;
+    width:250px;
+    margin-top:100px;
+}
+
+#myname{
+    float:left;
+    display:block;
+    width:800px;
+    }
+    
+#profile, #education{
+padding: 10px 10px 10px 10px;
+margin:10px 10px 10px 10px;
+border-bottom: 2px solid black;
+
+}
+ #experience{
+padding: 10px 10px 10px 10px;
+margin:10px 10px 10px 10px;
+border-bottom: 2px solid black;
+width:1250px;
+display:inline-block;
+}
+ 
+#skills{margin:10px 10px 10px 10px;
+padding: 10px 10px 10px 10px;
+height: 150px;
+border-bottom: 2px solid black;
+}
+#technical{
+padding: 10px 10px 10px 10px;
+margin:10px 10px 10px 10px;
+height: 200px;
+border-bottom: 2px solid black;
+}
+
+aside{
+    float:left;
+    width:250px;
+
+}
+article{
+    padding-bottom:30px;
+
+}
+
+#content{margin-bottom:10px;}
+#body{width:auto;
+}
+
+#notable{
+     width:800px;
+     float:left;
+}
+.inner{
+    border: 3px soild #000;
+}
+.common{
+       
+}
+.talent{ width: 30%;
+float: left;
+}
+.talent h2{margin-bottom: 6px; }
+.last{
+    border-bottom:0px;
+    border:none;
+    }
+p{
+    font-size:100%;
+    line-height:18px;
+    padding-right: 3em;
+}
+p.enlarge{
+    font-size:144%;
+    line-height:24pm;
+    padding-right: 6.5em;
+}
+ul{display:inline-block;
+    float:left;
+    width:250px;
+    height:150px;
+    margin: 0;
+}
+li{
+ line-height: 24px;
+ border-bottom: 1px solid black;  
+ list-style-type:none;
+ margin-top:25px;
+ margin-left:-50px;
+ font-size:20px;
+}
+.section .job{
+    position: relative;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid;
+}
+.section .new{
+    border: 2px soild black;
+}
+.section .job h4{
+    position: absolute;
+    top: 0.35em;
+    right:0px;
+}
+
+.last{border-bottom:0;}
+
+footer{
+height:100px;
+text-align:center;
+font: 20px;}
+
